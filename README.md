@@ -1,2 +1,1 @@
-# modelo-acessibilidade
-Redesign de interface, com foco na Acessibilidade Web
+# Redesign de interface, com foco na Acessibilidade Web
